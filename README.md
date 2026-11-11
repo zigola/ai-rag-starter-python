@@ -1,3 +1,5 @@
+<p align="center"><img src="project-banner.svg" alt="AI RAG Starter Python banner" width="100%" /></p>
+
 # AI RAG Starter Python
 
 A practical, beginner-friendly Retrieval-Augmented Generation (RAG) starter built with Python. The project demonstrates document loading, text chunking, simple retrieval, and a clean path toward connecting an LLM.
@@ -28,7 +30,7 @@ pytest -q
 
 ```text
 src/
-  rag_demo.py       # Minimal retrieval demo
+  rag_demo.py
   __init__.py
 tests/
   test_rag_demo.py
@@ -45,7 +47,7 @@ requirements.txt
 
 ## Responsible use
 
-This is an educational starter. Validate retrieved sources, protect sensitive documents, and do not treat generated text as authoritative without human review.
+Validate retrieved sources, protect sensitive documents, and do not treat generated text as authoritative without human review.
 
 ## License
 
